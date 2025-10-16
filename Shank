@@ -1,0 +1,9 @@
+data_app/
+│
+├── app.py
+├── templates/
+│   ├── index.html
+│   ├── add.html
+│   └── report.html
+└── static/
+    └── chart.js
